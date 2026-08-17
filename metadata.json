@@ -1,0 +1,6 @@
+{
+  "name": "KMRL IntelliDocs",
+  "description": "AI-Powered Document Intelligence & Operational Automation for Kochi Metro Rail Limited (SIH25080)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
